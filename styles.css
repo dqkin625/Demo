@@ -11,15 +11,15 @@ body {
     border: 1px solid #ccc;
     padding: 30px;
     width: 370px;
-    height: 680px;
+    height: 580px;
     border-radius: 5px;
     background-color: #fff;
 }
 
 #display {
     border: 1px solid #ccc;
-    padding: 30px;
-    width: 300px;
+    padding: 20px;
+    width: 330px;
     margin-bottom: 20px;
     text-align: right;
     font-size: 50px;
@@ -28,9 +28,10 @@ body {
 }
 
 .btn {
-    padding: 30px;
+    padding: 35px;
     margin: 10px;
     width:100px;
+    height: 50px;
     border:none;
     border-radius: 5px;
     cursor: pointer;
