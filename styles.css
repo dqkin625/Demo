@@ -11,7 +11,7 @@ body {
     border: 1px solid #ccc;
     padding: 30px;
     width: 370px;
-    height: 580px;
+    height: 630px;
     border-radius: 5px;
     background-color: #fff;
 }
@@ -28,15 +28,16 @@ body {
 }
 
 .btn {
-    padding: 35px;
+    padding: 20px;
     margin: 10px;
     width:100px;
-    height: 50px;
+    height: 85px;
     border:none;
     border-radius: 5px;
     cursor: pointer;
     font-size: 25px;
     font-family: Georgia;
+    color: black;
 }
 
 .btn:hover {
