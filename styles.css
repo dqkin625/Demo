@@ -11,7 +11,7 @@ body {
     border: 1px solid #ccc;
     padding: 30px;
     width: 370px;
-    height: 630px;
+    height: 650px;
     border-radius: 5px;
     background-color: #fff;
 }
@@ -40,11 +40,11 @@ body {
 }
 p{
     font-family: Georgia;
-    color:#fff;
+    color:#ee9887;
 }
 .fa-heart{
-    color:#fff;
-    position: fixed; top: 8px;right: 630px;
+    color:#ee9887;
+    position: fixed; top: 25px;right: 630px;
 }
   
 .btn:hover {
