@@ -25,6 +25,7 @@ body {
     font-size: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     overflow: hidden;
+    color:pink;
 }
 .btn {
     padding: 20px;
@@ -38,15 +39,16 @@ body {
     font-family: Georgia;
     color: black;
 }
-p{
-    font-family: Georgia;
-    color:#ee9887;
-}
 .fa-heart{
-    color:#ee9887;
-    position: fixed; top: 25px;right: 630px;
+    color: pink;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
-  
+i{
+    color: pink;
+    font-family: Georgia;
+
+}
 .btn:hover {
     background-color: #E9C3BB;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
